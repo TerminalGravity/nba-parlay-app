@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+scikit-learn
+xgboost
+nba_api
+requests
+joblib
+geopy
+schedule
+textblob
+beautifulsoup4
+logging
